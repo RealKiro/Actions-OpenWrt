@@ -1,6 +1,6 @@
 # Actions-OpenWrt
 
-## [![Release](https://img.shields.io/github/release/RealKiro/Actions-OpenWrt?color=blue)](https://github.com/RealKiro/Actions-OpenWrt/releases)  [![Last commit](https://img.shields.io/github/last-commit/RealKiro/Actions-OpenWrt?color=blue)](https://github.com/RealKiro/Actions-OpenWrt/commits/master)
+## [![Build](https://img.shields.io/github/workflow/status/RealKiro/Actions-OpenWrt/master?color=blue)](https://github.com/RealKiro/Actions-OpenWrt/actions?query=workflow%3Abuild-openwrt)[![Release](https://img.shields.io/github/release/RealKiro/Actions-OpenWrt?color=blue)](https://github.com/RealKiro/Actions-OpenWrt/releases)  [![Last commit](https://img.shields.io/github/last-commit/RealKiro/Actions-OpenWrt?color=blue)](https://github.com/RealKiro/Actions-OpenWrt/commits/master)
 
 Build OpenWrt using GitHub Actions
 
