@@ -18,8 +18,8 @@ on:
 #    types: published
   schedule:
     - cron: 0 21 * * *
-#   watch:
-#     types: started
+  watch:
+    types: started
 #  repository_dispatch:
 #   workflow_dispatch:
 #     inputs:
