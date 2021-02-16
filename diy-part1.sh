@@ -53,10 +53,10 @@ git clone https://github.com/garypang13/luci-app-dnsfilter.git package/mine/luci
 # git clone https://github.com/vernesong/OpenClash.git package/mine/OpenClash
 
 # tencent DDNS
-git clone https://github.com/Tencent-Cloud-Plugins/tencentcloud-openwrt-plugin-ddns.git package/mine/tencentcloud-openwrt-plugin-ddns
+# git clone https://github.com/Tencent-Cloud-Plugins/tencentcloud-openwrt-plugin-ddns.git package/mine/tencentcloud-openwrt-plugin-ddns
 
 # 网易云音乐
-git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic.git package/mine/luci-app-unblockneteasemusic
+# git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic.git package/mine/luci-app-unblockneteasemusic
 
 # 网易云音乐GoLang版本
 # git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic-go.git package/mine/luci-app-unblockneteasemusic-go
