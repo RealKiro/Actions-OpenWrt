@@ -1,11 +1,10 @@
-# Actions-OpenWrt
+# Build OpenWrt using GitHub Actions Based On [immortalwrt](https://github.com/immortalwrt/immortalwrt)
 
 ## ![Build OpenWrt](https://github.com/RealKiro/Actions-OpenWrt/workflows/Build%20OpenWrt/badge.svg?branch=main)   [![Release](https://img.shields.io/github/release/RealKiro/Actions-OpenWrt?color=blue)](https://github.com/RealKiro/Actions-OpenWrt/releases)   [![Last commit](https://img.shields.io/github/last-commit/RealKiro/Actions-OpenWrt?color=blue)](https://github.com/RealKiro/Actions-OpenWrt/commits/master)
 
-Build OpenWrt using GitHub Actions Based On [immortalwrt](https://github.com/immortalwrt/immortalwrt)
-
-
 ---
+
+Thinks for [P3TERX](https://github.com/P3TERX)
 
 [Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
