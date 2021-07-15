@@ -17,8 +17,10 @@
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
 # 更改默认主题为第三方主题
-git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git package/mine/luci-theme-infinityfreedom.git
-sed -i 's/luci-theme-bootstrap/luci-theme-infinityfreedom/g' package/feeds/luci/luci/Makefile
+#git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git package/mine/luci-theme-infinityfreedom.git
+#sed -i 's/luci-theme-bootstrap/luci-theme-infinityfreedom/g' package/feeds/luci/luci/Makefile 
+git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git  package/mine/luci-theme-argon
+sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' package/feeds/luci/luci/Makefile
 
 # 复杂的AdGuardHome的openwrt的luci界面
 # git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/mine/luci-app-adguardhome
